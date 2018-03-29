@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/TT/.idea/TT.iml" filepath="E:/TT/.idea/TT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/photo.iml" filepath="$PROJECT_DIR$/.idea/photo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt_sccs/.idea/tt_sccs.iml" filepath="$PROJECT_DIR$/../tt_sccs/.idea/tt_sccs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vaverij/.idea/vaverij.iml" filepath="$PROJECT_DIR$/../vaverij/.idea/vaverij.iml" />
+    </modules>
+  </component>
+</project>
